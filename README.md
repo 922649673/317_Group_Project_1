@@ -1,6 +1,9 @@
 # Group Project 1
 - Ayman Baydoun & Bryan Lee
 
+## Github Pages Deployment:
+- https://922649673.github.io/317_Group_Project_1/
+
 ## Project Description:
 - This repo is an implementation of a basic one-page website that contains around 6 facts of a music group, being deftones.
 
